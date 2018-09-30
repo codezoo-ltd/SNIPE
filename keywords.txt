@@ -1,0 +1,61 @@
+#######################################
+# Syntax Coloring Map For SNIPE
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+SNIPE	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+lora_init	KEYWORD2
+lora_reset	KEYWORD2
+lora_getFreq	KEYWORD2
+lora_setFreq	KEYWORD2
+lora_getTxp	KEYWORD2
+lora_setTxp	KEYWORD2
+lora_getSf	KEYWORD2
+lora_setSf	KEYWORD2
+lora_getRxtout	KEYWORD2
+lora_setRxtout	KEYWORD2
+lora_getTxtout	KEYWORD2
+lora_setTxtout	KEYWORD2
+lora_setAESMode	KEYWORD2
+lora_getAppKey	KEYWORD2
+lora_setAppKey	KEYWORD2
+lora_getRssi	KEYWORD2
+lora_getSnr	KEYWORD2
+lora_getVersion	KEYWORD2
+lora_setConf	KEYWORD2
+lora_send	KEYWORD2
+lora_sendBinary	KEYWORD2
+lora_recv	KEYWORD2
+lora_recvBinary	KEYWORD2
+sendRawCommand	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+LORA_CH_1	LITERAL1
+LORA_CH_2	LITERAL1
+LORA_CH_3	LITERAL1
+LORA_CH_4	LITERAL1
+LORA_CH_5	LITERAL1
+LORA_CH_6	LITERAL1
+LORA_CH_7	LITERAL1
+LORA_CH_8	LITERAL1
+LORA_SF_7	LITERAL1
+LORA_SF_8	LITERAL1
+LORA_SF_9	LITERAL1
+LORA_SF_10	LITERAL1
+LORA_SF_11	LITERAL1
+LORA_SF_12	LITERAL1
+LORA_AES_OFF	LITERAL1
+LORA_AES_ON	LITERAL1
