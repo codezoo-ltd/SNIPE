@@ -1,2 +1,2 @@
 # SNIPE
-Arduino LoRa Module Library &amp; Example
+CodeZoo Arduino LoRa Module Library &amp; Example
